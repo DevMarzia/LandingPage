@@ -1,0 +1,27 @@
+.head-banner{
+    background-blend-mode: multiply;
+    background-color: rgba(198, 198, 210, 0.508);
+    padding-top:8rem;
+    padding-bottom: 8rem;
+    background-image: url('https://cutewallpaper.org/23/abstract-free-wallpaper/1767731983.jpg');
+    background-position: center; 
+    background-size: cover;  
+}
+
+.sezione-icone{
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.bi{
+    font-size: 60px;
+}
+
+@media screen and (min-width: 768px){
+    .head-banner{
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+  
+}
+
